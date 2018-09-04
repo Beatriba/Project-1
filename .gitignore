@@ -1,0 +1,7 @@
+#vim products
+*~
+*.swp
+
+#executable files
+
+*.exe
