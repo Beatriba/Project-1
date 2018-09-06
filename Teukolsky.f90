@@ -1,4 +1,4 @@
-program prova
+program Teukolsky
 implicit none
 
 interface
